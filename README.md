@@ -1,6 +1,6 @@
 ## print visualization
 
-> pypi link coming soon
+(PYPI)[https://pypi.org/project/print-vis/1.0.0/]
 
 ==================
 
